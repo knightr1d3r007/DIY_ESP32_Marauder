@@ -59,9 +59,13 @@ load the firmware at 0x10000  (_old_hardware.bin)
 
 5.- Solder/Plug your "TFT_LCD 2.8" 240x320 SPI ILI9341" and ESP32-DevKitC to the DIY_Marauder PCB. (Solder/plug the TFT_LCD to the front of the PCB and the ESP32_DevKitC to the back of the PCB. Guide yourself by the ground pins)
 
-6.- Reset yout board, ESP_maruder should boot and show the logo. The DIY_ESP32_Marauder is ready to roll.
+6.- Reset yout board, ESP_maruder should boot and show the logo. The DIY_ESP32_Marauder is ready to rock and roll.
+
 
 Notes: 
 - Battery (5V) and power switch are optional. 
 - If the TFT display is not responsive or a bit out of calibration. Then, once again repeat the flashing process this time using the official firmware for the "Marauder_v6" (_new_hardware.bin/_v6.bin).
+- If possible support the creator of ESP32_Marauder (justcallmekoko).
+
+
 
