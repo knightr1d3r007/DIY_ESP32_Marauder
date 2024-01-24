@@ -52,9 +52,13 @@ Then follow these steps carefully:
 For archival purposes, ease of use as addtional option, a copy of the ESP32_Marauder files version 0.13.6 are inside the BINS folder of this repo. 
 
 Load the bootloader at 0x1000
+
 Load the partitions at 0x8000
+
 Load the Boot app at 0xE000
+
 load the firmware at 0x10000  (_old_hardware.bin)
+
 
 4.- Finally, when all files are uploaded, click the "program" button.
 
