@@ -3,7 +3,7 @@
 
 
 
-![PCB_DIY_ESP32_Marauder]PCB_DIY_ESP32_Marauder_x2.PNG)
+![PCB_DIY_ESP32_Marauder](PCB_DIY_ESP32_Marauder_x2.PNG)
 
 # Requirements:
 
