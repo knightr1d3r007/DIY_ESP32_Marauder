@@ -18,7 +18,9 @@ https://www.aliexpress.us/item/3256805973309169.html
 
 3.- Iron, solder, headers,etc.
 
-4.- The PCB for the DIY_ESP31_Marauder. Go to the release section of this page and download the ZIP file. Then, upload it your PCB production site of preference.(For example, https://jlcpcb.com/  JLCPCB is cheap) 
+4.- The PCB for the DIY_ESP31_Marauder. Go to the release section of this page and download the ZIP file. Then, upload it your PCB production site of preference for ordering. For example, https://jlcpcb.com/  JLCPCB is cheap)
+Note: While ordering the PCB, I would suggest to choose RED as the PCB color, it would look like as a 'One whole assembly' together with the TFT display (which most times is also RED).
+
 
 # The ESP32 flashing process:
 
