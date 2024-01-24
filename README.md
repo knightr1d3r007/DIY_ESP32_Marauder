@@ -27,6 +27,7 @@ Note: While ordering the PCB, I would suggest to choose RED as the PCB color, it
 
 To start, download all the Marauder files needed from the official site (here):
 
+
 https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware
 
 From this site, download the following 4 files for the ESP32 Marauder_v4:
@@ -36,8 +37,10 @@ From this site, download the following 4 files for the ESP32 Marauder_v4:
 3-Boot App
 4-Firmware 
 
-Using Google Chrome, we'll flash the ESP32_DevKitC  board with the ESPWebTool from spacehuhn at this site: 
+Using Google Chrome, we'll flash the ESP32_DevKitC  board with the ESPWebTool from spacehuhn at this site:
+
 https://esp.huhn.me/ 
+
 
 Then follow these steps carefully:
 
@@ -51,13 +54,13 @@ Then follow these steps carefully:
 
 For archival purposes, ease of use as addtional option, a copy of the ESP32_Marauder files version 0.13.6 are inside the BINS folder of this repo. 
 
-Load the bootloader at 0x1000
+- Load the bootloader at 0x1000
 
-Load the partitions at 0x8000
+- Load the partitions at 0x8000
 
-Load the Boot app at 0xE000
+- Load the Boot app at 0xE000
 
-load the firmware at 0x10000  (_old_hardware.bin)
+- Load the firmware at 0x10000  (_old_hardware.bin)
 
 
 4.- Finally, when all files are uploaded, click the "program" button.
