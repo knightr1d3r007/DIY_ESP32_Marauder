@@ -48,6 +48,7 @@ Then follow these steps carefully:
 3.- Select the corresponding files you downloaded from the official site.
 
 (https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware) 
+
 For archival purposes, ease of use as addtional option, a copy of the ESP32_Marauder files version 0.13.6 are inside the BINS folder of this repo. 
 
 Load the bootloader at 0x1000
