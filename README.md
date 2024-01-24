@@ -57,5 +57,7 @@ load the firmware at 0x10000  (_old_hardware.bin)
 
 6.- Reset yout board, ESP_maruder should boot and show the logo. The DIY_ESP32_Marauder is ready to roll.
 
-Just in case: If the TFT display is not responsive or a bit out of calibration. Then, once again repeat the flashing process this time using the official firmware for the "Marauder_v6" (_new_hardware.bin/_v6.bin).
+Notes: 
+- Battery (5V) and power switch are optional. 
+- If the TFT display is not responsive or a bit out of calibration. Then, once again repeat the flashing process this time using the official firmware for the "Marauder_v6" (_new_hardware.bin/_v6.bin).
 
