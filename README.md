@@ -7,7 +7,7 @@
 
 
 
-![PCB_DIY_ESP32_Marauder]![Marauder_CheapSkate](https://github.com/user-attachments/assets/e738019d-53d2-460f-a710-94280bb0435b)
+![Marauder_CheapSkate](https://github.com/user-attachments/assets/e738019d-53d2-460f-a710-94280bb0435b)
 
 # Requirements:
 
@@ -72,6 +72,13 @@ For archival purposes, ease of use as addtional option, a copy of the ESP32_Mara
 5.- Solder/Plug your "TFT_LCD 2.8" 240x320 SPI ILI9341" and ESP32-DevKitC to the DIY_Marauder PCB. (Solder/plug the TFT_LCD to the front of the PCB and the ESP32_DevKitC to the back of the PCB. Guide yourself by the ground pins)
 
 6.- Reset yout board, ESP_maruder should boot and show the logo. The DIY_ESP32_Marauder is ready to rock and roll.
+
+# PBC Front side - Here you will place the esp32 and the display
+![Marauder_CheapSkate-front](https://github.com/user-attachments/assets/9d4b534e-dc86-4a07-98d0-d08ce4fdfacd)
+
+# PCB back side - Here you will solder the GPS
+![Marauder_CheapSkate-back](https://github.com/user-attachments/assets/b607921a-b709-49c0-819a-644fd463900a)
+
 
 
 Notes: 
