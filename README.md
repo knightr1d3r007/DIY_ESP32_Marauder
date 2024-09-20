@@ -7,7 +7,7 @@
 
 
 
-![PCB_DIY_ESP32_Marauder](PCB_DIY_ESP32_Marauder_x2.PNG)
+![PCB_DIY_ESP32_Marauder]![Marauder_CheapSkate](https://github.com/user-attachments/assets/e738019d-53d2-460f-a710-94280bb0435b)
 
 # Requirements:
 
