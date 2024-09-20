@@ -1,9 +1,9 @@
-# DIY_ESP32_Marauder
+# DIY ESP32 Marauder - Cheapskate version.
 ![esp32marauder](https://github.com/user-attachments/assets/d4440bb6-f60a-4d18-8730-c3fe9fefdc23)
 
 
 
-# This provides a PCB for an "easy DIY version" of the ESP32_Marauder project.
+# This project provides a PCB for an "easy DIY version" of the ESP32_Marauder device.
 
 
 
@@ -73,10 +73,10 @@ For archival purposes, ease of use as addtional option, a copy of the ESP32_Mara
 
 6.- Reset yout board, ESP_maruder should boot and show the logo. The DIY_ESP32_Marauder is ready to rock and roll.
 
-# PBC Front side - Here you will place both the ESP32 and the display
+# PBC Front side of the Cheapskate version- Here you will place both the ESP32 and the display
 ![Marauder_CheapSkate-front](https://github.com/user-attachments/assets/9d4b534e-dc86-4a07-98d0-d08ce4fdfacd)
 
-# PCB back side - Here you will solder only the GPS module and a battery (optional).
+# PCB back side of the Cheapskate version - Here you will solder only the GPS module and a battery (optional).
 ![Marauder_CheapSkate-back](https://github.com/user-attachments/assets/b607921a-b709-49c0-819a-644fd463900a)
 
 
