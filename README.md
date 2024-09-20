@@ -3,7 +3,7 @@
 
 
 
-# The PCB for an easy DIY version of the ESP32_Marauder project.
+# This provides a PCB for an "easy DIY version" of the ESP32_Marauder project.
 
 
 
