@@ -69,7 +69,7 @@ For archival purposes, ease of use as addtional option, a copy of the ESP32_Mara
 
 4.- Finally, when all files are uploaded, click the "program" button.
 
-5.- Solder/Plug your "TFT_LCD 2.8" 240x320 SPI ILI9341" and ESP32-DevKitC to the DIY_Marauder PCB. (Solder/plug the TFT_LCD to the front of the PCB and the ESP32_DevKitC to the back of the PCB. Guide yourself by the ground pins)
+5.- Solder/Plug your "TFT_LCD 2.8" 240x320 SPI ILI9341" and ESP32-DevKitC to the DIY_Marauder PCB. (Solder/plug the TFT_LCD and the ESP32_DevKitC to the front side of the PCB. Solder the GPS to the back side of the PCB. Guide yourself by the ground pins)
 
 6.- Reset yout board, ESP_maruder should boot and show the logo. The DIY_ESP32_Marauder is ready to rock and roll.
 
