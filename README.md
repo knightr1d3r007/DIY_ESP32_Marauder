@@ -36,13 +36,18 @@ To start, download all the Marauder files needed from the official site (here):
 
 https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware
 
-# Important: It has to be the version v4
+# Important: 
+# It has to be the version v4
 From this site, download the following 4 files, for the version "ESP32 Marauder_v4":
 
 1-Bootloader
+
 2-Partitions
+
 3-Boot App
+
 4-Firmware 
+
 
 Using Google Chrome, we'll flash the ESP32_DevKitC  board with the ESPWebTool from spacehuhn at this site:
 
