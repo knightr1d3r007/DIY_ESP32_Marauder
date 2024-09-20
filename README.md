@@ -94,6 +94,7 @@ Here you will solder only the GPS module and a battery (optional).
 
 
 Notes: 
+- The back side of the PCB has the silkscreen written ESP32-DevkitC. However, the ESP32-DevKitC goes on the front side.
 - Battery (5V) and power switch are optional.
   The Cheapskate version can be powered through the ESP32's USB port or adding a dedicated battery providing 5 volts.
 - If the TFT display is not responsive or a bit out of calibration. Then, once again repeat the flashing process this time using the official firmware for the "Marauder_v6" (_new_hardware.bin/_v6.bin).
