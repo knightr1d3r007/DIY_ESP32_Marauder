@@ -24,7 +24,9 @@ https://www.aliexpress.us/item/3256805973309169.html
 
 4.- The PCB for the DIY_ESP32_Marauder-Cheapskate version.
 
-Go to the release section of this page and download the ZIP file. Then, upload the zip file to your PCB production site of preference for ordering. For example, https://jlcpcb.com/  JLCPCB is cheap)
+Go to the release section of this page and download the ZIP file. Then, upload the zip file to your PCB production site of preference for ordering. 
+
+For example, https://jlcpcb.com/  (JLCPCB is cheap)
 
 Note: While ordering the PCB, I would suggest to choose RED as the PCB color, it would look like as a 'One whole assembly' together with the TFT display (which most times is also RED).
 
@@ -38,6 +40,7 @@ https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware
 
 # Important: 
 # It has to be the version v4
+
 From this site, download the following 4 files, for the version "ESP32 Marauder_v4":
 
 1-Bootloader
@@ -64,7 +67,7 @@ Then follow these steps carefully:
 
 (https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware) 
 
-For archival purposes, ease of use as addtional option, a copy of the ESP32_Marauder files version 0.13.6 are inside the BINS folder of this repo. 
+For archival purposes (additional option), a copy of the ESP32_Marauder required files (version 0.13.6) are located in the BINS folder of this repo. 
 
 - Load the bootloader at 0x1000
 
@@ -77,9 +80,11 @@ For archival purposes, ease of use as addtional option, a copy of the ESP32_Mara
 
 4.- Finally, when all files are uploaded, click the "program" button.
 
-5.- Solder/Plug your "TFT_LCD 2.8" 240x320 SPI ILI9341" and ESP32-DevKitC to the DIY_Marauder PCB. (Solder/plug the TFT_LCD and the ESP32_DevKitC to the front side of the PCB. Solder the GPS to the back side of the PCB. Guide yourself by the ground pins)
+5.- Solder/Plug your "TFT_LCD 2.8" 240x320 SPI ILI9341" and ESP32-DevKitC to the front side of the DIY_ESP32Marauder-CheapSkate version PCB. 
 
-6.- Reset yout board, ESP_maruder should boot and show the logo. The DIY_ESP32_Marauder is ready to rock and roll.
+ Solder the GPS module to the back side of the PCB. Guide yourself by the ground pins.
+
+6.- Reset your board, the ESP32_Marauder should boot and show the logo. The DIY_ESP32_Marauder is ready to rock and roll.
 
 # PBC Front side of the Cheapskate version- 
 Here you will place both the ESP32 and the display
