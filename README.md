@@ -104,7 +104,24 @@ Notes:
   The Cheapskate version can be powered through the ESP32's USB port or adding a dedicated battery providing 5 volts.
 - If the TFT display is not responsive or a bit out of calibration. Then, once again repeat the flashing process this time using the official firmware for the "Marauder_v6" (_new_hardware.bin/_v6.bin).
 - If possible support the creator of ESP32_Marauder (justcallmekoko) for his awesome project.
-  https://github.com/justcallmekoko/ESP32Marauder 
+  https://github.com/justcallmekoko/ESP32Marauder
+
+
+
+
+# LICENSE
+
+
+Distributed under the MIT License. See LICENSE.txt for more information. 
+
+The tool/device is for educational purpose only and the author does not condone any illegal use. 
+
+Use as your own risk.
+
+
+
+
+  
 
 
 
