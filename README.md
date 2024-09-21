@@ -112,7 +112,7 @@ Notes:
 # LICENSE
 
 
-Distributed under the MIT License. See LICENSE.txt for more information. 
+Distributed under the GNU General Public License v3.0. See LICENSE.txt for more information. 
 
 The tool/device is for educational purpose only and the author does not condone any illegal use. 
 
